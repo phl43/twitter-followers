@@ -1,7 +1,6 @@
 library(rtweet)
 
-# see https://medium.com/@GalarnykMichael/accessing-data-from-twitter-api-using-r-part1-b387a1c7d3e to
-# learn how to create a Twitter application and obtain the various keys you need here
+# see https://rtweet.info to learn how to create a Twitter application and obtain the various keys you need here
 consumer_key <- #YOUR_CONSUMER_KEY
 consumer_secret <- #YOUR_CONSUMER_SECRET
 access_token <- #YOUR_ACCESS_TOKEN
